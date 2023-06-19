@@ -22,11 +22,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 Learning 
-![C#](https://img.shields.io/badge/C%23-C%23-brightgreen)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
